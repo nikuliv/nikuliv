@@ -1,16 +1,17 @@
-### Hi there 👋
+# [Github stats](https://github.com/jstrieb/github-stats)
 
-<!--
-**nikuliv/nikuliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/nikuliv/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/nikuliv/github-stats/blob/master/generated/languages.svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact me
+
+<a href="https://www.linkedin.com/in/nikuliv">
+         <img alt="LN" src="https://imgur.com/OQUXwNp.jpeg"
+         width=50" height="50">
+</a>
+                              
+<a href="https://t.me/nikutes">
+         <img alt="TG" src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png"
+         width=50" height="50">
+</a>
